@@ -13,7 +13,7 @@ html {
 /*16px*/
 
 body {
-    background: black;
+    background: rgb(11, 10, 10);
     font-family: 'Raleway', Medium;
     font-weight: 50 ;
     line-height: 1.75;
@@ -174,5 +174,5 @@ footer div{
 
 #link {
 
-    color: #FFFFFF  ;
+    color: #601b9c  ;
 }
